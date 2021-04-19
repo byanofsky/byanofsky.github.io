@@ -2,4 +2,4 @@
 
 # Trigger an intentional error in shellcheck
 
-echo '$Test'
+echo 'Test'
